@@ -1,0 +1,181 @@
+[
+	{
+	"name": "tortilla_soup",
+	"ingredients": {
+		"onion": {"quantity": 1, "unit": "whole"},
+		"spice": null,
+		"garlic": {"quantity": 4, "unit": "clove"},
+		"beans": {"quantity": 2, "unit": "can"},
+		"corn": {"quantity": 0.5, "unit": "cup"},
+		"cumin": {"quantity": 2, "unit": "tsp"},
+		"tortilla": {"quantity": null, "unit": null},
+		"tomato": {"quantity": 2, "unit": "can"}
+
+	}
+	},
+	{
+	"name": "italian sausage spaghetti",
+	"ingredients": {
+		"italian sausage": {"quantity": 8, "unit": "whole"},
+		"onion": {"quantity": 2, "unit": "whole"},
+		"carrot": {"quantity": 6, "unit": "whole"},
+		"celery": {"quantity": 6, "unit": "whole"},
+		"tomato": {"quantity": 3, "unit": "can"},
+		"zucchini": {"quantity": 1, "unit": "whole"},
+		"mushroom": {"quantity": 8, "unit": "whole"},
+		"garlic": {"quantity": 4, "unit": "clove"}
+	}
+	},
+	{
+	"name": "ground meat spaghetti",
+	"ingredients": {
+		"ground beef": {"quantity": 1, "unit": "lb"},
+		"ground pork": {"quantity": 1, "unit": "lb"},
+		"onion": {"quantity": 2, "unit": "whole"},
+		"carrot": {"quantity": 6, "unit": "whole"},
+		"celery": {"quantity": 6, "unit": "whole"},
+	 	"tomato": {"quantity": 3, "unit": "can"},
+		"zucchini": {"quantity": 1, "unit": "whole"},
+		"mushroom": {"quantity": 8, "unit": "whole"},
+		"garlic": {"quantity": 4, "unit": "clove"}
+	}
+	}, 
+
+	{
+	"name": "wheatberry salad",
+	"ingredients": {
+		"garlic": {"quantity": 1, "unit": "clove"},
+		"parmesan": {"quantity": 2, "unit": "tbsp"},
+		"lemon juice": {"quantity": 1, "unit": "tbsp"},
+		"cream": {"quantity": 0.25, "unit": "cup"},
+		"wheat berry": {"quantity": 1, "unit": "cup"},
+		"chicken thigh": {"quantity": 4, "unit": "whole"},
+		"kale": {"quantity": 2, "unit": "bunches"},
+		"radish": {"quantity": 6, "unit": "whole"}
+	}	
+	},
+	{
+	"name": "beef & bean chili",
+	"link": "https://www.bonappetit.com/recipe/beef-and-bean-chili",
+	"ingredients": {
+		"ground beef": {"quantity": 2.66, "unit": "lb"},
+		"onion": {"quantity": 2, "unit": "whole"},
+		"garlic": {"quantity": 8, "unit": "clove"},
+		"cumin": {"quantity": 2, "unit": "tbsp"},
+		"chili powder": {"quantity": 1.25, "unit": "cup"},
+		"paprika": {"quantity": 1, "unit": "tsp"},
+		"tomato": {"quantity": 1, "unit": "can"},
+		"beans": {"quantity": 2, "unit": "can"},
+		"beef stock": {"quantity": 0.5,"unit": "litre"},
+		"sour cream": {"quantity": 1, "unit": "small container"},
+		"orange cheese": {"quantity": null, "unit": null}
+	}	
+	},
+	{
+	"name": "chicken noodle soup",
+	"ingredients": {
+		"chicken thigh": {"quantity": 10, "unit": "whole"},
+		"onion": {"quantity": 2, "unit": "whole"},
+		"garlic": {"quantity": 4, "unit": "clove"},
+		"celery": {"quantity": 6, "unit": "whole"},
+		"carrot": {"quantity": 6, "unit": "whole"},
+		"chicken stock": {"quantity": 4, "unit": "litre"},
+		"tomato": {"quantity": 1, "unit": "whole"},
+		"noodle": {"quantity": 2, "unit": "cup"},
+		"turmeric": {"quantity": 1,"unit": "tsp"}
+	}	
+	},
+	{
+	"name": "roast chicken",
+	"ingredients": {
+		"roasting chicken": {"quantity": 1, "unit": "whole"},
+		"buttermilk": {"quantity": 1, "unit": "carton"},
+		"garlic": {"quantity": 4, "unit": "clove"},	
+		"rosemary": {"quantity": 1, "unit": "sprig"},
+		"olive oil": {"quantity": 0.25, "unit": "cup"},
+		"potato": {"quantity": 6, "unit": "whole"},
+		"carrot": {"quantity": 4, "unit": "whole"},
+		"parsnip": {"quantity": 4,"unit": "whole"}
+	}	
+	},
+	{
+	"name": "roast pork",
+	"ingredients": {
+		"pork roast": {"quantity": 1, "unit": "whole"},
+		"garlic": {"quantity": 4, "unit": "clove"},	
+		"rosemary": {"quantity": 1, "unit": "sprig"},
+		"olive oil": {"quantity": 0.25, "unit": "cup"},
+		"potato": {"quantity": 6, "unit": "whole"},
+		"carrot": {"quantity": 4, "unit": "whole"},
+		"parsnip": {"quantity": 4,"unit": "whole"}
+	}
+	},
+	{
+	"name": "ginger trout",
+	"note": "either trout or salmon, veggies are fried up asian style",
+	"ingredients": {
+		"steelhead trout": {"quantity": 1, "unit": "large fillet"},
+		"ginger": {"quantity": 1, "unit": "large slice"},
+		"garlic": {"quantity": 4, "unit": "clove"},	
+		"couscous": {"quantity": 1, "unit": "cup"},
+		"olive oil": {"quantity": 0.25, "unit": "cup"},
+		"pepper": {"quantity": 2, "unit": "whole"},
+		"carrot": {"quantity": 3, "unit": "whole"},
+		"onion": {"quantity": 1,"unit": "whole"},
+		"soy sauce": {"quantity": null, "unit": null},
+		"oyster sauce": {"quantity": null, "unit": null},
+		"mirin": {"quantity": null, "unit": null},
+		"corn starch": {"quantity": null, "unit": null}
+	}	
+	},
+	{
+	"name": "pork fried rice",
+	"ingredients": {
+		"ground pork": {"quantity": 0.5, "unit": "lb"},
+		"ginger": {"quantity": 1, "unit": "large slice"},
+		"garlic": {"quantity": 4, "unit": "clove"},	
+		"pepper": {"quantity": 2, "unit": "whole"},
+		"carrot": {"quantity": 2, "unit": "whole"},
+		"onion": {"quantity": 1,"unit": "whole"},
+		"celery": {"quantity": 3, "unit": "whole"},
+		"rice": {"quantity": 1, "unit": "cup"},
+		"soy sauce": {"quantity": null, "unit": null},
+		"oyster sauce": {"quantity": null, "unit": null},
+		"mirin": {"quantity": null, "unit": null},
+		"corn starch": {"quantity": null, "unit": null}
+	}	
+	},
+	{
+	"name": "pork chow mein",
+	"ingredients": {
+		"ground pork": {"quantity": 0.5, "unit": "lb"},
+		"ginger": {"quantity": 1, "unit": "large slice"},
+		"garlic": {"quantity": 4, "unit": "clove"},	
+		"pepper": {"quantity": 2, "unit": "whole"},
+		"carrot": {"quantity": 2, "unit": "whole"},
+		"onion": {"quantity": 1,"unit": "whole"},
+		"celery": {"quantity": 3, "unit": "whole"},
+		"noodle": {"quantity": null, "unit": null},
+		"soy sauce": {"quantity": null, "unit": null},
+		"oyster sauce": {"quantity": null, "unit": null},
+		"mirin": {"quantity": null, "unit": null},
+		"corn starch": {"quantity": null, "unit": null}
+	}	
+	},
+	{
+	"name": "chickpea tofu spinach curry",
+	"ingredients": {
+		"coconut oil": {"quantity": 1, "unit": "tbsp"},
+		"ginger": {"quantity": 1, "unit": "large slice"},
+		"garlic": {"quantity": 3, "unit": "clove"},	
+		"curry powder": {"quantity": 4, "unit": "tbsp"},
+		"coconut milk": {"quantity": 2, "unit": "can"},
+		"chickpea": {"quantity": 1,"unit": "can"},
+		"firm tofu": {"quantity": 500, "unit": "g"},
+		"spinach": {"quantity": 3, "unit": "cup"},
+		"rice": {"quantity": 2, "unit": "cup"}
+	}	
+	}
+
+]
+
