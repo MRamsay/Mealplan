@@ -1,185 +1,185 @@
 # Recipes
 ## Tortilla Soup
     
-+ onion - 1 whole
-+ spice - None None
-+ garlic - 4 clove
-+ beans - 2 can
-+ corn - 0.5 cup
-+ cumin - 2 tsp
-+ tortilla - None None
-+ tomato - 2 can
++ onion - whole 1
++ spice (no unit)
++ garlic - clove 4
++ beans - can 2
++ corn - cup 0.5
++ cumin - tsp 2
++ tortilla (no unit)
++ tomato - can 2
 
 
 
     
 ## Italian Sausage Spaghetti
     
-+ italian sausage - 8 whole
-+ onion - 2 whole
-+ carrot - 6 whole
-+ celery - 6 whole
-+ tomato - 3 can
-+ zucchini - 1 whole
-+ mushroom - 8 whole
-+ garlic - 4 clove
++ italian sausage - whole 8
++ onion - whole 2
++ carrot - whole 6
++ celery - whole 6
++ tomato - can 3
++ zucchini - whole 1
++ mushroom - whole 8
++ garlic - clove 4
 
 
 
     
 ## Ground Meat Spaghetti
     
-+ ground beef - 1 lb
-+ ground pork - 1 lb
-+ onion - 2 whole
-+ carrot - 6 whole
-+ celery - 6 whole
-+ tomato - 3 can
-+ zucchini - 1 whole
-+ mushroom - 8 whole
-+ garlic - 4 clove
++ ground beef - lb 1
++ ground pork - lb 1
++ onion - whole 2
++ carrot - whole 6
++ celery - whole 6
++ tomato - can 3
++ zucchini - whole 1
++ mushroom - whole 8
++ garlic - clove 4
 
 
 
     
 ## Wheatberry Salad
     
-+ garlic - 1 clove
-+ parmesan - 2 tbsp
-+ lemon juice - 1 tbsp
-+ cream - 0.25 cup
-+ wheat berry - 1 cup
-+ chicken thigh - 4 whole
-+ kale - 2 bunches
-+ radish - 6 whole
++ garlic - clove 1
++ parmesan - tbsp 2
++ lemon juice - tbsp 1
++ cream - cup 0.25
++ wheat berry - cup 1
++ chicken thigh - whole 4
++ kale - bunches 2
++ radish - whole 6
 
 
 
     
 ## Beef & Bean Chili
     
-+ ground beef - 2.66 lb
-+ onion - 2 whole
-+ garlic - 8 clove
-+ cumin - 2 tbsp
-+ chili powder - 1.25 cup
-+ paprika - 1 tsp
-+ tomato - 1 can
-+ beans - 2 can
-+ beef stock - 0.5 litre
-+ sour cream - 1 small container
-+ orange cheese - None None
++ ground beef - lb 2.66
++ onion - whole 2
++ garlic - clove 8
++ cumin - tbsp 2
++ chili powder - cup 1.25
++ paprika - tsp 1
++ tomato - can 1
++ beans - can 2
++ beef stock - litre 0.5
++ sour cream - small container 1
++ orange cheese (no unit)
 
 
 
     
 ## Chicken Noodle Soup
     
-+ chicken thigh - 10 whole
-+ onion - 2 whole
-+ garlic - 4 clove
-+ celery - 6 whole
-+ carrot - 6 whole
-+ chicken stock - 4 litre
-+ tomato - 1 whole
-+ noodle - 2 cup
-+ turmeric - 1 tsp
++ chicken thigh - whole 10
++ onion - whole 2
++ garlic - clove 4
++ celery - whole 6
++ carrot - whole 6
++ chicken stock - litre 4
++ tomato - whole 1
++ noodle - cup 2
++ turmeric - tsp 1
 
 
 
     
 ## Roast Chicken
     
-+ roasting chicken - 1 whole
-+ buttermilk - 1 carton
-+ garlic - 4 clove
-+ rosemary - 1 sprig
-+ olive oil - 0.25 cup
-+ potato - 6 whole
-+ carrot - 4 whole
-+ parsnip - 4 whole
++ roasting chicken - whole 1
++ buttermilk - carton 1
++ garlic - clove 4
++ rosemary - sprig 1
++ olive oil - cup 0.25
++ potato - whole 6
++ carrot - whole 4
++ parsnip - whole 4
 
 
 
     
 ## Roast Pork
     
-+ pork roast - 1 whole
-+ garlic - 4 clove
-+ rosemary - 1 sprig
-+ olive oil - 0.25 cup
-+ potato - 6 whole
-+ carrot - 4 whole
-+ parsnip - 4 whole
++ pork roast - whole 1
++ garlic - clove 4
++ rosemary - sprig 1
++ olive oil - cup 0.25
++ potato - whole 6
++ carrot - whole 4
++ parsnip - whole 4
 
 
 
     
 ## Ginger Trout
     
-+ steelhead trout - 1 large fillet
-+ ginger - 1 large slice
-+ garlic - 4 clove
-+ couscous - 1 cup
-+ olive oil - 0.25 cup
-+ pepper - 2 whole
-+ carrot - 3 whole
-+ onion - 1 whole
-+ soy sauce - None None
-+ oyster sauce - None None
-+ mirin - None None
-+ corn starch - None None
++ steelhead trout - large fillet 1
++ ginger - large slice 1
++ garlic - clove 4
++ couscous - cup 1
++ olive oil - cup 0.25
++ pepper - whole 2
++ carrot - whole 3
++ onion - whole 1
++ soy sauce (no unit)
++ oyster sauce (no unit)
++ mirin (no unit)
++ corn starch (no unit)
 
 
 
     
 ## Pork Fried Rice
     
-+ ground pork - 0.5 lb
-+ ginger - 1 large slice
-+ garlic - 4 clove
-+ pepper - 2 whole
-+ carrot - 2 whole
-+ onion - 1 whole
-+ celery - 3 whole
-+ rice - 1 cup
-+ soy sauce - None None
-+ oyster sauce - None None
-+ mirin - None None
-+ corn starch - None None
++ ground pork - lb 0.5
++ ginger - large slice 1
++ garlic - clove 4
++ pepper - whole 2
++ carrot - whole 2
++ onion - whole 1
++ celery - whole 3
++ rice - cup 1
++ soy sauce (no unit)
++ oyster sauce (no unit)
++ mirin (no unit)
++ corn starch (no unit)
 
 
 
     
 ## Pork Chow Mein
     
-+ ground pork - 0.5 lb
-+ ginger - 1 large slice
-+ garlic - 4 clove
-+ pepper - 2 whole
-+ carrot - 2 whole
-+ onion - 1 whole
-+ celery - 3 whole
-+ noodle - None None
-+ soy sauce - None None
-+ oyster sauce - None None
-+ mirin - None None
-+ corn starch - None None
++ ground pork - lb 0.5
++ ginger - large slice 1
++ garlic - clove 4
++ pepper - whole 2
++ carrot - whole 2
++ onion - whole 1
++ celery - whole 3
++ noodle (no unit)
++ soy sauce (no unit)
++ oyster sauce (no unit)
++ mirin (no unit)
++ corn starch (no unit)
 
 
 
     
 ## Chickpea Tofu Spinach Curry
     
-+ coconut oil - 1 tbsp
-+ ginger - 1 large slice
-+ garlic - 3 clove
-+ curry powder - 4 tbsp
-+ coconut milk - 2 can
-+ chickpea - 1 can
-+ firm tofu - 500 g
-+ spinach - 3 cup
-+ rice - 2 cup
++ coconut oil - tbsp 1
++ ginger - large slice 1
++ garlic - clove 3
++ curry powder - tbsp 4
++ coconut milk - can 2
++ chickpea - can 1
++ firm tofu - g 500
++ spinach - cup 3
++ rice - cup 2
 
 
 
